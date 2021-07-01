@@ -10,7 +10,9 @@ if (x == "yes") {
 else {
   alert("You will learn about a beautiful specialty now")
 }
-document.write("<p>"+"GOOD BYE"+ "</P>")
+
+document.write("<p>" + "GOOD BYE" + "</P>")
+
 
 
 
