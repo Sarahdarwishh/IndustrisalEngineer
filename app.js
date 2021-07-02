@@ -1,4 +1,4 @@
-var Major = prompt("What is your university major?")
+/* var Major = prompt("What is your university major?")
 
 alert(" welcome to our successful " + Major)
 
@@ -10,7 +10,10 @@ if (x == "yes") {
 else {
   alert("You will learn about a beautiful specialty now")
 }
-document.write("<p>"+"GOOD BYE"+ "</P>")
+
+document.write("<p>" + "GOOD BYE" + "</P>")
+*/
+
 
 
 

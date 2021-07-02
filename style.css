@@ -1,0 +1,46 @@
+body{
+  margin:0%;
+  background-color: blanchedalmond
+}
+header{
+  height: 100px;
+}
+header nav {
+  float: right;
+  width:50%;
+  margin-top: 10px
+}
+
+header div {
+  float: left;
+}
+header nav ul li {
+display: inline-block;
+}
+p{
+  color:purple; 
+}
+#bluevioletp{
+   color: blueviolet
+}
+#blue{
+    color:blue
+}
+.darkblue{
+  color: darkblue
+}
+a{
+  text-decoration: none
+}
+h1{
+    float: left;
+}
+section {
+  float: left;
+}
+footer {
+    position:relative;
+    clear:both;
+    height:30px;
+    width:600px;
+}
