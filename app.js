@@ -12,8 +12,8 @@ else {
 }
 
 document.write("<p>" + "GOOD BYE" + "</P>")
+<<<<<<< HEAD
 */
-
 
 
 
