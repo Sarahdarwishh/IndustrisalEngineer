@@ -14,7 +14,7 @@ else {
 document.write("<p>" + "GOOD BYE" + "</P>")
 <<<<<<< HEAD
 */
-<<<<<<< HEAD
+
 
 /*var ie = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 /*
@@ -102,23 +102,14 @@ else {
 }*/
 
 
-
-
-
-=======
->>>>>>> fe0812a5e5978c32fafcdfbdab263f89b4fbcafa
-
-
-
-
 var IE = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 while (IE != "factory" && IE != "airport" && IE != "hospital" && IE != "bank") {
   IE = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 }
-
+var times = prompt("how many time you wish to your fav position?")
 
 if (IE == "factory") {
-  var times = prompt("how many time you wish  to it on my page ")
+  
   for (var i = 0; i < times; i++) {
     document.write("div" + "<h3>" + "Your fav position in a factory" + "</h3>"
       + "<img src='https://c8.alamy.com/comp/HY66K4/industrial-engineer-working-in-the-factory-with-talking-on-the-walkie-HY66K4.jpg'>" + "</div>")
@@ -132,15 +123,14 @@ else if (IE == "airport") {
   }
 }
 else if (IE == "hospital") {
-      var times = prompt("how many time you wish  to it on my page ")
-
+    
       for (var i = 0; i < times; i++) {
         document.write("div" + "<h3>" + "Your fav position in a hospital" + "</h3>"
           + "<img src='http://www.industrialinside.com/wp-content/uploads/2016/04/MERIT-Photo-3-300x225.jpg'>" + "</div>")
       }
 }
 else {
-      var times = prompt("how many time you wish  to it on my page ")
+      
         for (var i = 0; i < times; i++) {
           document.write("div" + "<h3>" + "Your fav position in a bank " + "</h3>"
             + "<img src='https://i.ytimg.com/vi/kuxNaUqDEl4/maxresdefault.jpg'>" + "</div>")
