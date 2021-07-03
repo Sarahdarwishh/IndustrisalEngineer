@@ -14,6 +14,7 @@ else {
 document.write("<p>" + "GOOD BYE" + "</P>")
 <<<<<<< HEAD
 */
+<<<<<<< HEAD
 
 /*var ie = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 /*
@@ -104,6 +105,8 @@ else {
 
 
 
+=======
+>>>>>>> fe0812a5e5978c32fafcdfbdab263f89b4fbcafa
 
 
 
