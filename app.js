@@ -101,10 +101,6 @@ else {
   }
 }*/
 
-
-
-
-
 function favPosition () {
 var IE = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 while (IE != "factory" && IE != "airport" && IE != "hospital" && IE != "bank") {
@@ -141,17 +137,15 @@ else {
         }
 }
 }
- favPosition(); 
-
+ favPosition(); {
  var age = prompt(" What is your age ")
  var year = prompt ("What the year are we in now, ex :2003, 2020?")
  var a = parseInt(age) 
  var b = parseInt( year) 
  function Subtract (X,Y){
 var c = b-a
-return c ;
-alert (" The result is the year you are born in it + c")
+alert (" The result is the year you are born in it " + c)
+return c ; 
  }
-console.log (Subtract(2021,23));
-document.write(  "<h3>" + "The result is the year you are born in it" + c + "</h3>")
-
+ console.log (Subtract(2021,23));
+ }
