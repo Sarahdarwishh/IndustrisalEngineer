@@ -101,18 +101,8 @@ else {
   }
 }*/
 
-<<<<<<< HEAD
 function favPosition () {
-=======
 
-<<<<<<< HEAD
-
-
-
-function favPosition () {
-=======
->>>>>>> 36f34528d983ec5222605c30d90a1823cbc8f7cb
->>>>>>> 40d54f285d2d5c7bea40b336a30910b1d8f9c2ab
 var IE = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
 while (IE != "factory" && IE != "airport" && IE != "hospital" && IE != "bank") {
   IE = prompt("If you are an industrial engineer, you like to work at (factory, airport ,hospital or bank?)")
