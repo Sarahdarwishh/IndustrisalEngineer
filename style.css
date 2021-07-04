@@ -1,4 +1,4 @@
-body{
+ body{
   margin:3%;
   background-color: blanchedalmond
 }
@@ -8,7 +8,7 @@ header{
 header nav {
   float: right;
   width:50%;
-  margin-top: 10px
+
 }
 
 header div {
@@ -43,4 +43,4 @@ footer {
     clear:both;
     height:30px;
     width:600px;
-}
+} 
